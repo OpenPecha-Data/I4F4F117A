@@ -1,5 +1,7 @@
 id: P000336
 initial_creation_type: ocr
+created_at: 13/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG22189
   title: བདེ་གཤེགས་འདུས་པ་སྒྲུབ་པ་བཀའ་བརྒྱད་སྐོར།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 506
       base_file: v001.txt
-ebook_metadata:
-  title: བདེ་གཤེགས་འདུས་པ་སྒྲུབ་པ་བཀའ་བརྒྱད་སྐོར།
-  author: ''
-  sku: P000336
-  cover: cover.jpg
-  layers:
-  - pagination
